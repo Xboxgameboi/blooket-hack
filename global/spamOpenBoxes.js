@@ -36,3 +36,5 @@ const sleep = (ms) => new Promise(r => setTimeout(r, ms));
         alert(`Results:\n` + Object.entries(count).map((x) => `    ${x[1]} ${x[0]}`).join(`\n`));
     });
 })();
+      })();
+           })();
